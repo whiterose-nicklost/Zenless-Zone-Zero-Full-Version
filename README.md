@@ -246,4 +246,4 @@ This repository serves as the official landing page for Zenless Zone Zero. The s
 **Get the most recent version of Zenless Zone Zero today!**
 
 ---
-**Last updated:** 2026-10-08 15:21:06 UTC
+**Last updated:** 2026-10-08 21:07:52 UTC
